@@ -1,105 +1,83 @@
-**Privacy Policy for ACONotes**
+Privacy Policy for ACONotes
 
 Last updated: April 2026
 
 ACONotes (“we”, “our”, or “the app”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use the application.
 
----
-
-## 1. Information We Collect
+1. Information We Collect
 
 We may collect the following information:
 
-* **Account Information**
+Account Information
 
-  * Student ID or Teacher ID
-  * Full name
-  * Login credentials (handled securely via Firebase Authentication)
+Student ID or Teacher ID
+Full name
+Login credentials (securely managed via Firebase Authentication)
 
-* **User Content**
+User Content
 
-  * Notes created by users
-  * Messages sent in group chats
-  * Group/class information
+Notes created by users
+Messages sent in group chats
+Group or class-related information
 
-* **Device & Technical Data**
+Device & Technical Data
 
-  * Device identifiers (e.g., Firebase Cloud Messaging token)
-  * App usage data for functionality and performance
-
----
-
-## 2. How We Use Your Information
+Device identifiers (e.g., Firebase Cloud Messaging token)
+App usage data for functionality and performance
+2. How We Use Your Information
 
 We use the collected information to:
 
-* Provide login and authentication services
-* Enable group chats and communication
-* Store and manage notes
-* Improve app performance and user experience
-* Send in-app notifications (and optional push notifications)
+Provide authentication and account management
+Enable group communication and collaboration
+Store and manage user-generated content
+Improve app performance and user experience
+Send notifications (in-app and optional push notifications)
+3. Data Storage and Security
 
----
+All data is securely stored using Firebase services (Authentication, Firestore, and Storage).
+We implement appropriate security measures to protect user data from unauthorized access.
 
-## 3. Data Storage and Security
+Only authorized users can access their own data and relevant group information.
 
-* All data is securely stored using **Firebase services** (Authentication, Firestore, Storage).
-* We implement reasonable security measures to protect user data.
-* Only authorized users can access their own data and group-related information.
+4. Data Sharing
 
----
+We do not sell or share personal data with third parties.
 
-## 4. Data Sharing
+Data may only be accessible:
 
-We **do not sell or share** your personal data with third parties.
+Within the user’s group/class (e.g., shared notes or messages)
+By system administrators strictly for maintenance and support purposes
+5. User Control
 
-Data may only be accessed:
+Users have the ability to:
 
-* Within your group/class (e.g., messages, notes)
-* By system administrators if required for maintenance
-
----
-
-## 5. User Control
-
-Users can:
-
-* Edit or delete their notes
-* Leave groups
-* Log out anytime
-* Request data deletion (if implemented)
-
----
-
-## 6. Notifications
+Edit or delete their notes
+Leave groups or classes
+Log out at any time
+Request account or data deletion (if supported)
+6. Notifications
 
 ACONotes may send:
 
-* In-app notifications
-* Push notifications (if enabled)
+In-app notifications
+Push notifications (if enabled)
 
-Users can control notification permissions via device settings.
+Users can manage notification permissions through their device settings.
 
----
+7. Children’s Privacy
 
-## 7. Children’s Privacy
+This application is intended for educational use. Users should access the app under the guidance or authorization of their educational institution.
 
-This application is intended for educational use. Users should only access the app with proper authorization from their institution.
+8. Changes to This Policy
 
----
+We may update this Privacy Policy from time to time. Any changes will be reflected within the application.
 
-## 8. Changes to This Policy
+9. Contact
 
-We may update this Privacy Policy from time to time. Changes will be reflected within the app.
+If you have any questions regarding this Privacy Policy, you may contact:
 
----
+ACONotes Development Team
+Email: jaycapa.dev@gmail.com
 
-## 9. Contact
-
-If you have any questions about this Privacy Policy, you may contact:
-
-**ACONotes Development Team**
-
----
-
-**By using ACONotes, you agree to this Privacy Policy.**
+By using ACONotes, you agree to this Privacy Policy.
